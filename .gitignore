@@ -1,6 +1,7 @@
 node_modules/
 dist/
 build/
+dev/
 .cache
 yarn-error.log
 npm-debug.log
