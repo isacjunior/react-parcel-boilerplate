@@ -1,0 +1,1 @@
+document.write("Parcel say Hello")

@@ -1,0 +1,15 @@
+{
+  "name": "react-parcel",
+  "version": "1.0.0",
+  "description": "React with Parcel bundler",
+  "main": "index.js",
+  "author": "Isac <isac_asj91@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.js -d build/output"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.2.1"
+  }
+}
