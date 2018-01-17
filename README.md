@@ -18,5 +18,5 @@ Folder: dist
 ### Configurations
 ```
 React/React-Dom : 16.2 (Fiber + Fragments)
-Parcel bundler: 1.2.1
+Parcel bundler: 1.4.1
 ```
